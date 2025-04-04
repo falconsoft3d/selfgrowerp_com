@@ -34,6 +34,7 @@ export default function ContactPage() {
           </div>
         </div>
 
+        <!--
         <div className="space-y-4 border border-[#30363d] p-6 rounded-lg bg-[#161b22]">
           <div className="space-y-2">
             <h2 className="text-2xl font-bold text-white">Send us a message</h2>
@@ -99,6 +100,8 @@ export default function ContactPage() {
             </Button>
           </form>
         </div>
+
+        -->
       </div>
     </div>
   )
