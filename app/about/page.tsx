@@ -22,7 +22,7 @@ export default function AboutPage() {
         </div>
         <div className="flex items-center justify-center">
           <Image
-            src="/developer.png?height=400&width=400"
+            src="/developer1.png?height=400&width=400"
             alt="Our Team"
             width={400}
             height={400}
