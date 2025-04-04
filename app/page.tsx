@@ -16,7 +16,7 @@ export default function Home() {
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-white">
                   SelfGrowERP
                 </h1>
-                <p className="text-xl text-gray-400">The AI-powered ERP solution that grows with your business</p>
+                <p className="text-xl text-gray-400">The AI-powered ERP solution that grows with your business. More than an ERP. It’s intelligence for growth.</p>
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
                 <Button asChild className="bg-[#238636] hover:bg-[#2ea043] text-white border-none">
