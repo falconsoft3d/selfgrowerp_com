@@ -29,7 +29,7 @@ export default function ContactPage() {
             </div>
             <div className="flex items-center">
               <Mail className="h-5 w-5 text-[#238636] mr-2" />
-              <p className="text-white">mfalconsoft@gmail.com</p>
+              <p className="text-white">contact@selfgrowerp.com</p>
             </div>
           </div>
         </div>
