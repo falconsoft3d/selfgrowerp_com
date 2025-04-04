@@ -21,15 +21,15 @@ export default function ContactPage() {
           <div className="mt-8 space-y-4">
             <div className="flex items-center">
               <MapPin className="h-5 w-5 text-[#238636] mr-2" />
-              <p className="text-white">123 Business Avenue, Tech City, TC 12345</p>
+              <p className="text-white">AV Princiapal 52, Valencia, España</p>
             </div>
             <div className="flex items-center">
               <Phone className="h-5 w-5 text-[#238636] mr-2" />
-              <p className="text-white">+1 (555) 123-4567</p>
+              <p className="text-white">+34 (662) 47 06 45</p>
             </div>
             <div className="flex items-center">
               <Mail className="h-5 w-5 text-[#238636] mr-2" />
-              <p className="text-white">info@selfgrowerp.com</p>
+              <p className="text-white">mfalconsoft@gmail.com</p>
             </div>
           </div>
         </div>
