@@ -1,7 +1,7 @@
 ---
 title: "Introducing SelfGrowerP: The Future of AI-Powered ERP"
 date: "April 4, 2025"
-author: "Jane Smith"
+author: "Marlon Falcon Hernandez"
 excerpt: "Learn how our new AI-powered ERP system is revolutionizing business operations for companies of all sizes."
 ---
 
