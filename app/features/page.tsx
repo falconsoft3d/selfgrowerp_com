@@ -4,7 +4,7 @@ export default function FeaturesPage() {
   return (
     <div className="container px-4 md:px-6 py-12 md:py-24 lg:py-32">
       <div className="flex flex-col items-center justify-center space-y-4 text-center">
-        <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">SelfGrowerP Features</h1>
+        <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">SelfGrowERP Features</h1>
         <p className="max-w-[700px] text-gray-400 md:text-xl">
           Discover the powerful capabilities that make our AI-powered ERP system unique
         </p>

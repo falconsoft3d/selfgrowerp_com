@@ -11,7 +11,7 @@ export default function BlogPage() {
       <div className="flex flex-col items-center justify-center space-y-4 text-center">
         <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">Blog</h1>
         <p className="max-w-[700px] text-gray-400 md:text-xl">
-          Insights, updates, and thought leadership from the SelfGrowerP team
+          Insights, updates, and thought leadership from the SelfGrowERP team
         </p>
       </div>
 

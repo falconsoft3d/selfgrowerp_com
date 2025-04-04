@@ -16,7 +16,7 @@ export default function AboutPage() {
             growth.
           </p>
           <p className="mt-4 text-gray-400">
-            Our flagship product, SelfGrowerP, represents the culmination of years of research and development in the
+            Our flagship product, SelfGrowERP, represents the culmination of years of research and development in the
             fields of artificial intelligence, machine learning, and business process optimization.
           </p>
         </div>

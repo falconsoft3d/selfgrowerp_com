@@ -14,7 +14,7 @@ export default function Home() {
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-white">
-                  SelfGrowerP
+                  SelfGrowERP
                 </h1>
                 <p className="text-xl text-gray-400">The AI-powered ERP solution that grows with your business</p>
               </div>
@@ -36,7 +36,7 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/developer.png?height=400&width=400"
-                alt="SelfGrowerP Dashboard"
+                alt="SelfGrowERP Dashboard"
                 width={400}
                 height={400}
                 className="rounded-lg object-cover"
@@ -105,7 +105,7 @@ export default function Home() {
                 Ready to transform your business?
               </h2>
               <p className="max-w-[700px] md:text-xl">
-                Join hundreds of companies already using SelfGrowerP to streamline their operations
+                Join hundreds of companies already using SelfGrowERP to streamline their operations
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">

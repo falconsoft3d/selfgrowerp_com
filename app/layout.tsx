@@ -10,7 +10,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "SelfGrowerP - AI-Powered ERP Solution",
+  title: "SelfGrowERP - AI-Powered ERP Solution",
   description: "The intelligent ERP system that grows with your business",
     generator: 'v0.dev'
 }
