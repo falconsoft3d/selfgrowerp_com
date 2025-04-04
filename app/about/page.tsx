@@ -11,7 +11,7 @@ export default function AboutPage() {
             artificial intelligence.
           </p>
           <p className="mt-4 text-gray-400">
-            Founded in 2023, our mission is to make powerful ERP solutions accessible to businesses of all sizes. We
+            Founded in 2025, our mission is to make powerful ERP solutions accessible to businesses of all sizes. We
             believe that with the right tools, every company can optimize their operations and achieve sustainable
             growth.
           </p>

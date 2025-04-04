@@ -101,7 +101,7 @@ export default function RootLayout({
         <footer className="border-t border-[#30363d] py-6 md:py-8">
           <div className="container flex flex-col gap-4 md:flex-row md:items-center md:justify-between px-4 md:px-6">
             <div className="text-center md:text-left">
-              <p className="text-sm text-gray-400">© 2023 SelfGrowerP. All rights reserved.</p>
+              <p className="text-sm text-gray-400">© 2025 SelfGrowERP. All rights reserved.</p>
             </div>
             <nav className="flex justify-center gap-4 md:gap-6">
               <Link
