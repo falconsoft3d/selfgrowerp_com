@@ -13,7 +13,7 @@ export default function ContactPage() {
           <div>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">Contact Us</h1>
             <p className="mt-4 text-gray-400 md:text-xl">
-              We'd love to hear from you. Get in touch with our team to learn more about SelfGrowerP or to schedule a
+              We'd love to hear from you. Get in touch with our team to learn more about SelfGrowERP or to schedule a
               demo.
             </p>
           </div>

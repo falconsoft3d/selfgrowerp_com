@@ -26,7 +26,7 @@ export default function RootLayout({
         <header className="border-b border-[#30363d]">
           <div className="container flex h-16 items-center justify-between px-4 md:px-6">
             <Link href="/" className="flex items-center gap-2 font-bold text-xl text-white">
-              SelfGrowerP
+              SelfGrowERP
             </Link>
             <nav className="hidden md:flex gap-6">
               <Link
